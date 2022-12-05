@@ -1,0 +1,20 @@
+#fatOne,
+#fatTwo,
+#fatThree {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.fat {
+    list-style: none;
+    display: flex;
+}
+
+#workouts {
+    display: none;
+}
+
+.main {
+    text-align: center;
+}
